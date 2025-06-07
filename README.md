@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm [Your Name] 👨‍💻
 
-<!--
-**SoumyadeepGuha54/SoumyadeepGuha54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering student at Techno Main – Salt Lake, currently pursuing my B.Tech with a passion for building and learning.
 
-Here are some ideas to get you started:
+📌 About Me  
+- 🚀 Currently learning web development and data science  
+- 🤖 Exploring Generative AI and analytics tools  
+- 💻 Skilled in: C, C++, Python, SQL, HTML, CSS, JavaScript, Node.js, React.js  
+- 🏫 Alumni of Baranagore Ramakrishna Mission Ashrama High School (A+ in Madhyamik & Higher Secondary)  
+- 📜 Certifications:  
+  - 🧠 Introduction to Generative AI (Google)  
+  - 📊 Google Analytics 4 (GA4): Become a Web Analytics Specialist! (Udemy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Languages  
+- English  
+- Hindi  
+- Bengali  
+
+📍 Based in Kolkata, India
