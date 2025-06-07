@@ -1,4 +1,4 @@
-Hi, I'm [Your Name] 👨‍💻
+Hi, I'm Soumyadeep Guha 👨‍💻
 
 I'm a Computer Science and Engineering student at Techno Main – Salt Lake, currently pursuing my B.Tech with a passion for building and learning.
 
