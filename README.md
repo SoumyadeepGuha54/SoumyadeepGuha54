@@ -5,7 +5,7 @@ I'm a Computer Science and Engineering student at Techno Main – Salt Lake, cur
 📌 About Me  
 - 🚀 Currently learning web development and data science  
 - 🤖 Exploring Generative AI and analytics tools  
-- 💻 Skilled in: C, C++, Python, DSA, HTML, CSS, JavaScript, Node.js, React.js  
+- 💻 Skilled in: C, C++, Python, DSA, HTML, CSS, JavaScript, Node.js, Next.js, React.js  
 - 🏫 Alumni of Baranagore Ramakrishna Mission Ashrama High School (A+ in Madhyamik & Higher Secondary)  
 - 📜 Certifications:  
   - 🧠 Introduction to Generative AI (Google)  
