@@ -17,7 +17,3 @@ I'm a Computer Science and Engineering student at Techno Main – Salt Lake, cur
 - Bengali  
 
 📍 Based in Kolkata, India
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=material-palenight&hide_border=false" alt="GitHub Streak"/>
-</p>
