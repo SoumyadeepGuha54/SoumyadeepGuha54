@@ -38,7 +38,7 @@ me.say_hi()
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,twitter,linkedin,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=discord,twitter,linkedin,stackoverflow&perline=18" />
   </a>
 </p>
 
@@ -46,6 +46,6 @@ me.say_hi()
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,tailwind,vite,mongodb,react,md,git,github,replit,powershell,vscode,gcp,figma,ai,ps,blender,notion,firebase,vercel,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,tailwind,vite,mongodb,react,md,git,github,replit,powershell,vscode,gcp,figma,ai,ps,blender,notion,firebase,vercel,windows&perline=18" />
   </a>
 </p>
