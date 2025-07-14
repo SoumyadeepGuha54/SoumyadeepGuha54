@@ -27,7 +27,7 @@ me.say_hi()
   - 🧠 Introduction to Generative AI (Google)
   - 📊 Google Analytics 4 (GA4): Become a Web Analytics Specialist! (Udemy)
 
-🌐 Languages
+🌐 Languages:
 - English
 - Hindi
 - Bengali
