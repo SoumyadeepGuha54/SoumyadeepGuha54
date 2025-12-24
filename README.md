@@ -34,14 +34,6 @@ me.say_hi()
 
 📍 Based in Kolkata, India
 
-<h3 align="left">📬 Let's Connect:</h3>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,twitter,linkedin,stackoverflow" />
-  </a>
-</p>
-
 <h3 align="left">⚙️ Languages & Tools:</h3>
 <br>
 <p align="center">
