@@ -46,6 +46,6 @@ me.say_hi()
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,flask,postman,html,css,js,ts,tailwind,vite,mongodb,react,md,git,github,replit,powershell,vscode,gcp,figma,ai,ps,blender,notion,firebase,vercel,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,flask,postman,sqlite,html,css,js,ts,tailwind,vite,mongodb,react,md,git,github,replit,powershell,vscode,gcp,figma,ai,ps,blender,notion,firebase,vercel,windows" />
   </a>
 </p>
