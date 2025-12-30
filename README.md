@@ -10,7 +10,7 @@ class Developer:
         self.name = "Soumyadeep Guha"
         self.role = "Machine Learning Engineer and Full Stack Web Developer"
         self.language_spoken = ["C", "C++", "Python", "JavaScript"]
-        self.current_focus = "Full-stack Web Dev"
+        self.current_focus = "Machine Learning"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
