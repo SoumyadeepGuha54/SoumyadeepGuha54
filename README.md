@@ -20,17 +20,17 @@ me.say_hi()
 ```
 
 📌 About Me:
-- 🚀 Currently learning web development and data science
-- 🤖 Exploring Generative AI and analytics tools
-- 🏫 Alumni of Baranagore Ramakrishna Mission Ashrama High School (A+ in Madhyamik & Higher Secondary)
+- 🚀 Currently learning Machine Learning and Web Development
+- 🎨 Exploring UI/UX and Graphic Design
 - 📜 Certifications:
   - 🧠 Introduction to Generative AI (Google)
-  - 📊 Google Analytics 4 (GA4): Become a Web Analytics Specialist! (Udemy)
+  - ☁️ Cloud Foundations (AWS Academy)
 
 🌐 Languages:
 - English
 - Hindi
 - Bengali
+- Spanish
 
 📍 Based in Kolkata, India
 
