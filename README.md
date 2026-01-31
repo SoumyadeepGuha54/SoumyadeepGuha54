@@ -38,6 +38,6 @@ me.say_hi()
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,anaconda,flask,postman,sqlite,html,css,js,tailwind,bootstrap,vite,react,nodejs,npm,express,mongodb,md,git,github,replit,powershell,vscode,pycharm,androidstudio,gcp,aws,ai,ps,notion,firebase,vercel,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,anaconda,flask,postman,sqlite,html,css,js,tailwind,bootstrap,vite,react,nodejs,npm,express,mongodb,redux,md,git,github,replit,powershell,vscode,pycharm,androidstudio,gcp,aws,ai,ps,notion,firebase,vercel,windows" />
   </a>
 </p>
